@@ -1,3 +1,7 @@
+# Sobre o projeto
+
+Essa aplicação front-end foi desenvolvida para servir a API presente na pasta "api_rest".
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
