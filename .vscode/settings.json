@@ -1,0 +1,17 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": "APP-Alunos",
+      "database": "escola",
+      "username": "root",
+      "password": "uCHxUJ5e1XPt"
+    }
+  ]
+}
